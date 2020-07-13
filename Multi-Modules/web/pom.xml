@@ -26,6 +26,10 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+     <dependency>
+       <groupId>kochetkov</groupId>
+       <artifactId>service</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
